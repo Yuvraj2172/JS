@@ -2,7 +2,7 @@
 // String 
 let name ="yuvraj";
 console.log(name);
-console.log("my name is "+name);
+console.log("my name is "+name );
 console.log("Data type is "+ (typeof name));
 
 // numbers
