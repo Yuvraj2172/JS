@@ -58,6 +58,6 @@ let fruits=['Orange','Apple','Papaya','Mango'];
 let test="Uveee";
 //remember to use back-tick symbol instead of quotes or double-quotes
 let myhtml=`Hello ${test} <h1>This is heading</h1>`;
-console.log(myhtml);
+console.log( myhtml);
 
 document.body.innerHTML=myhtml;
