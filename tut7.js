@@ -69,5 +69,5 @@ let myobj={ name:'Yuvraj', eatsfood: true,marks: [13,34,5,3],'last name':"soni"}
 console.log(myobj.marks);
 //to give space in keys we create it as string
 // keys can be accessed using both dot(.) operator and square brakets[]
-console.log(myobj["last name"])
+console.log(myobj["last name"] )
 
