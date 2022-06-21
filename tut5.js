@@ -18,7 +18,7 @@ console.log(i.toString());
 let a = "3434";
 console.log(typeof Number(a), typeof a);
 
-let stri = Number(false);
+let stri = Number(false );
 console.log(stri);
 
 let number = '36757.422';
