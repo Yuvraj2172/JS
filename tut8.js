@@ -46,7 +46,7 @@ let doesdrive=true;
 // console.log(age===65  ? 'Age is 65 ' : 'Age is not 65');
 
 //Switch-Case Statements
-age=79;
+age= 79;
 switch(age){
   case 18:console.log("you are 18");
   break;
