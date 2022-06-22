@@ -16,7 +16,7 @@ a=document.images;
 
 // images crawler from webpage
 Array.from(a).forEach(function(element){
-    console.log(element);
+    console.log( element);
 });
 
 // scripts crawler from webpage
