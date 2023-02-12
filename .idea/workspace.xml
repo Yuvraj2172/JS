@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e021365-260d-4515-94fe-dc9691589a4f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut16.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tut9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KPMSj1Hlg2GJbHXwcFszx8aXrg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e021365-260d-4515-94fe-dc9691589a4f" name="Changes" comment="" />
+      <created>1673871766145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673871766145</updated>
+      <workItem from="1673871767116" duration="261000" />
+      <workItem from="1675998697070" duration="94000" />
+      <workItem from="1676198175688" duration="149000" />
+      <workItem from="1676198355885" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
