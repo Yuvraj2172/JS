@@ -2,33 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e021365-260d-4515-94fe-dc9691589a4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut10.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut11.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut12.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut13.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut14.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut15.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut16.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tut9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KPMSj1Hlg2GJbHXwcFszx8aXrg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,6 +59,7 @@
       <workItem from="1675998697070" duration="94000" />
       <workItem from="1676198175688" duration="149000" />
       <workItem from="1676198355885" duration="27000" />
+      <workItem from="1676198385141" duration="406000" />
     </task>
     <servers />
   </component>
