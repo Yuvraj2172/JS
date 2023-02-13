@@ -1,0 +1,15 @@
+// 45;
+// "Yuvraj Soni";
+// "use strict";
+console.log("Operators in JS");
+let a =2, b=10;
+console.log("a + b = ", a+b);
+console.log("a - b = ", a-b);
+console.log("a * b = ", a*b);
+console.log("a / b = ", a/b);
+console.log("a ** b = ", a**b);
+console.log("a % b = ", a%b);
+console.log("a++", a++);
+console.log(a);
+// c=5;
+// console.log(c);
