@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e021365-260d-4515-94fe-dc9691589a4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tut15.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tut16.js" afterDir="false" />
+    <list default="true" id="2e021365-260d-4515-94fe-dc9691589a4f" name="Changes" comment="Array in JS">
+      <change afterPath="$PROJECT_DIR$/tut17.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,19 +42,23 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.general",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.tut11.js">
+  <component name="RunManager" selected="Node.js.tut17.js">
     <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="tut11.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tut11.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="tut17.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tut17.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.tut17.js" />
         <item itemvalue="Node.js.tut11.js" />
         <item itemvalue="Node.js.test.js" />
       </list>
@@ -76,11 +79,23 @@
       <workItem from="1676198385141" duration="3805000" />
       <workItem from="1676273987184" duration="173000" />
       <workItem from="1676274182865" duration="3077000" />
-      <workItem from="1676732508801" duration="6121000" />
+      <workItem from="1676732508801" duration="6997000" />
     </task>
+    <task id="LOCAL-00001" summary="Array in JS">
+      <created>1676748066225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676748066225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Array in JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array in JS" />
   </component>
 </project>
