@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e021365-260d-4515-94fe-dc9691589a4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tut7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tut9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tut11.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,16 +42,20 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.tut11.js">
     <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="tut11.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tut11.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.tut11.js" />
         <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
@@ -71,7 +74,8 @@
       <workItem from="1676198355885" duration="27000" />
       <workItem from="1676198385141" duration="3805000" />
       <workItem from="1676273987184" duration="173000" />
-      <workItem from="1676274182865" duration="2340000" />
+      <workItem from="1676274182865" duration="3077000" />
+      <workItem from="1676732508801" duration="632000" />
     </task>
     <servers />
   </component>
